@@ -1,6 +1,6 @@
 # Group Data Analysis project!
 
-Group presentation, should be around 20-25min total. 
+Group presentation, your presentation should be around 20-30min total and **be handed in with all accompanying code to reproduce your results.**
 
 You are tasked with estimating the **Cost of the COVID Pandemic**. The question is framed in the following way: *If the COVID pandemic didn't happen, how much better off would be we now*?
 
